@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Witamy na stronie projektu "Kod kreskowy"
 
-You can use the [editor on GitHub](https://github.com/kriskrk/spolecznosciowy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplikacja jest skierowana do ludzi, który wybierają się do sklepu i chcą wygenerować wirtualny koszyk z produktami.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskowego) :
 
-### Markdown
+<center>Producent</center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![etykieta](https://user-images.githubusercontent.com/44546814/58367479-0600ca80-7ee0-11e9-9f2e-b30da8fbc7f1.jpg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Skład zespołu projektowego
 
-- Bulleted
-- List
+1. Mateusz Podoba
+2. Krystian Żmuda
+3. Daniel Wrona
+4. Łukasz Kurnik
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Cel aplikacji
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Aplikacja pozwala wygenerować wirtualny koszyk.
 
-### Jekyll Themes
+### Główne cechy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kriskrk/spolecznosciowy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Przejżystość prenzentowanych informacji o danym produkcie.
 
-### Support or Contact
+### Zasadnicze funkcjonalności aplikacji
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![uml](https://user-images.githubusercontent.com/44546814/58367613-b15e4f00-7ee1-11e9-877a-939a836bdd70.png)
+![1](https://user-images.githubusercontent.com/44546814/58749056-4a144200-8481-11e9-9473-5640488c8e96.jpg)
+![2](https://user-images.githubusercontent.com/44546814/58749057-4aacd880-8481-11e9-8aac-322e99c5e3dc.jpg)
+![3](https://user-images.githubusercontent.com/44546814/58749058-4aacd880-8481-11e9-8d80-eab8e356fd42.jpg)
+![4](https://user-images.githubusercontent.com/44546814/58749059-4aacd880-8481-11e9-84d3-ac04aa587d75.jpg)
+![5](https://user-images.githubusercontent.com/44546814/58749060-4aacd880-8481-11e9-8167-3da2ac2343e1.jpg)
+![6](https://user-images.githubusercontent.com/44546814/58749061-4b456f00-8481-11e9-99a4-0da77d70be95.jpg)
+![7](https://user-images.githubusercontent.com/44546814/58749062-4bde0580-8481-11e9-94f3-e000c60ae02d.jpg)
+![8](https://user-images.githubusercontent.com/44546814/58749063-4bde0580-8481-11e9-84ca-17b61945ab38.jpg)
+
+### Linki do składowych projektu
+
+1. [prototyp](https://app.moqups.com/RpJo7zMQS0/view/page/a9bed6dc0) 
+2. [github link](https://github.com/mateusz-dev/iKnowPrice) 
+3. [aplikacja](https://www.4shared.com/mobile/WWkqK5fMda/comcompanynameiKnowPrice.html) 
