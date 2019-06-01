@@ -22,18 +22,12 @@ Przejżystość prenzentowanych informacji o imprezach dla studentów, wzajemna 
 
 ### Zasadnicze funkcjonalności aplikacji
 
-![uml](https://user-images.githubusercontent.com/44546814/58367613-b15e4f00-7ee1-11e9-877a-939a836bdd70.png)
-![1](https://user-images.githubusercontent.com/44546814/58749056-4a144200-8481-11e9-9473-5640488c8e96.jpg)
-![2](https://user-images.githubusercontent.com/44546814/58749057-4aacd880-8481-11e9-8aac-322e99c5e3dc.jpg)
-![3](https://user-images.githubusercontent.com/44546814/58749058-4aacd880-8481-11e9-8d80-eab8e356fd42.jpg)
-![4](https://user-images.githubusercontent.com/44546814/58749059-4aacd880-8481-11e9-84d3-ac04aa587d75.jpg)
-![5](https://user-images.githubusercontent.com/44546814/58749060-4aacd880-8481-11e9-8167-3da2ac2343e1.jpg)
-![6](https://user-images.githubusercontent.com/44546814/58749061-4b456f00-8481-11e9-99a4-0da77d70be95.jpg)
-![7](https://user-images.githubusercontent.com/44546814/58749062-4bde0580-8481-11e9-94f3-e000c60ae02d.jpg)
-![8](https://user-images.githubusercontent.com/44546814/58749063-4bde0580-8481-11e9-84ca-17b61945ab38.jpg)
+![social](https://user-images.githubusercontent.com/44546814/58750783-b0578f80-8496-11e9-8841-0f9baf3d72a0.png)
+
 
 ### Linki do składowych projektu
 
 1. [prototyp](https://xd.adobe.com/view/34e00530-0b54-4272-6444-333e47e15578-42d1/screen/66e7aa2c-b3a3-47b0-9150-e4ca7f4d32d7/Logowanie/?fbclid=IwAR3aDgiKaNoOQdCvq8zWm4SCA-CqZmm_yTK2XiaZU370cYU3OH45tVkcjxc) 
 2. [github link](https://github.com/mateusz-dev) 
+3. [glink do strony](https://socialnetworkuek.azurewebsites.net/home)
 
