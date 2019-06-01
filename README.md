@@ -1,30 +1,24 @@
-## Witamy na stronie projektu "Kod kreskowy"
+## Witamy na stronie projektu "Społecznościowy"
 
-Aplikacja jest skierowana do ludzi, który wybierają się do sklepu i chcą wygenerować wirtualny koszyk z produktami.
+Portal z chatem, w którym można się zarejestrować podejrzeć profile innych użytkowników i zdjęcia, zobaczyć zbliżające się wydarzenia koncerty itp. I wymienić się wiadomościami.
 
-Przykładowy opis szczegółowy produktu Coca-Cola (po zeskanowaniu kodu kreskowego) :
-
-<center>Producent</center>
-
-![etykieta](https://user-images.githubusercontent.com/44546814/58367479-0600ca80-7ee0-11e9-9f2e-b30da8fbc7f1.jpg)
 
 
 ### Skład zespołu projektowego
 
 1. Mateusz Podoba
 2. Krystian Żmuda
-3. Daniel Wrona
-4. Łukasz Kurnik
+3. Łukasz Kurnik
 
 
 
 ### Cel aplikacji
 
-Aplikacja pozwala wygenerować wirtualny koszyk.
+Portal społecznościowy skierowany dla studentów.
 
 ### Główne cechy
 
-Przejżystość prenzentowanych informacji o danym produkcie.
+Przejżystość prenzentowanych informacji o imprezach dla studentów, wzajemna komunikacja, chat, profile.
 
 ### Zasadnicze funkcjonalności aplikacji
 
@@ -40,6 +34,6 @@ Przejżystość prenzentowanych informacji o danym produkcie.
 
 ### Linki do składowych projektu
 
-1. [prototyp](https://app.moqups.com/RpJo7zMQS0/view/page/a9bed6dc0) 
-2. [github link](https://github.com/mateusz-dev/iKnowPrice) 
-3. [aplikacja](https://www.4shared.com/mobile/WWkqK5fMda/comcompanynameiKnowPrice.html) 
+1. [prototyp](https://xd.adobe.com/view/34e00530-0b54-4272-6444-333e47e15578-42d1/screen/66e7aa2c-b3a3-47b0-9150-e4ca7f4d32d7/Logowanie/?fbclid=IwAR3aDgiKaNoOQdCvq8zWm4SCA-CqZmm_yTK2XiaZU370cYU3OH45tVkcjxc) 
+2. [github link](https://github.com/mateusz-dev) 
+
